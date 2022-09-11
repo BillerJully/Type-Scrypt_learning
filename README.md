@@ -1,1 +1,1 @@
-# Type-Scrypt_learning
+# Type-Scrypt-learning
